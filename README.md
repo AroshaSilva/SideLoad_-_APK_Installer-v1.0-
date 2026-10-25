@@ -14,7 +14,7 @@ A lightweight Windows desktop utility for installing Android APK files directly 
 1. Once you downloaded the SideLoad - APK Installer setup file, run it and proceed normally.
   
 2. **Run APK Installer.exe or the shortcut** -> *Click yes in admin privilege request. This ensure that program will run smoothly without any restrictions to access platform-tools files.*
-   - At first lunch, is platform-tools files are not located in your c: drive or ' %LocalAppData%\SideLoad ' , you will be asked to whether to download platform-tools. Click ok (require an internet connection). Downloaded files will be available at ' %LocalAppData%\SideLoad '.
+   - At first lunch, is platform-tools files are not located in your c: drive or ' %LocalAppData%\Local\SideLoad ' , you will be asked to whether to download platform-tools. Click ok (require an internet connection). Downloaded files will be available at ' %LocalAppData%\SideLoad '.
 
 **Some times, application may display 'ADB not installed' once started, but neglect the warning-massage box and click 'Refresh' button.
 
