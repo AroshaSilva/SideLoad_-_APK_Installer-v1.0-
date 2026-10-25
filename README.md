@@ -17,15 +17,11 @@ This application requires ' platform-tools ' packages to be installed/located in
    - Download the ZIP file
 
 2. **Extract the Files**
-   - Create a folder named ' platform-tools ' or Extract the zip file to your C:\ (primary disk), but ensure that all the extracted files must be within a folder named 'platform-tools'.
-
-*This location is non-negotiable as this software application will only look for the platform-tool folder located among the folders in your C:\ disk or refer to[^1]. This app originally will not access any other system or personal files other than files in ' C:\platform-tools ' folder.*
-
-NOTE: Extracting files to this location ensures that this app won't access any personal or system files.
+   - First, create a folder name ' platform-tools ' in you c: (primary drive) and extract the zip file of official platform-tools to it. This process must be done as it is otherwise Android device won't be detected.
 
    - You should have: `C:\platform-tools\adb.exe`
 
-**I did not ship the software together with platform-tools in order to be protected from license and copyright issues. However still, Manual installation ensure latest Platform tool packages/ADB drivers installed for usage and reduces security concerns like false accusations to me or other HOST-privacy concerns. Without Platform tools, this app does not have any purpose.**
+**I did not ship the software together with platform-tools in order to be protected from license and copyright issues.**
 
 3. **Run APK Installer** -> *Click yes in admin privilege request. This ensure that program will run smoothly without any restrictions to access platform-tools files.*
    - Launch the application
