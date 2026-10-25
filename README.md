@@ -9,37 +9,16 @@ A lightweight Windows desktop utility for installing Android APK files directly 
  
 ## 1.📱 ADB Installation Instructions
 
-This application requires ' platform-tools ' packages to be installed/located in your C:\ (primary disk), follow the guidelines below this line;
 ### Step-by-Step Installation:
 
-1. **Download Android SDK Platform Tools**
-   - Visit: https://developer.android.com/studio/releases/platform-tools  (for windows)
-   - Download the ZIP file
+1. Once you downloaded the SideLoad - APK Installer setup file, run it and proceed normally.
+  
+2. **Run APK Installer.exe or the shortcut** -> *Click yes in admin privilege request. This ensure that program will run smoothly without any restrictions to access platform-tools files.*
+   - At first lunch, is platform-tools files are not located in your c: drive, you will be asked to whether to download platform-tools if not exists in your device. Click ok (require an internet connection).
 
-2. **Extract the Files**
-   - First, create a folder name ' platform-tools ' in you c: (primary drive) and extract the zip file of official platform-tools to it. This process must be done as it is otherwise Android device won't be detected.
-
-   - You should have: `C:\platform-tools\adb.exe`
-
-**I did not ship the software together with platform-tools in order to be protected from license and copyright issues.**
-
-3. **Run APK Installer** -> *Click yes in admin privilege request. This ensure that program will run smoothly without any restrictions to access platform-tools files.*
-   - Launch the application
-   - It will automatically detect ADB at `C:\platform-tools`
 **Some times, application may display 'ADB not installed' once started, but neglect the warning-massage box and click 'Refresh' button.
 
-[^1]:Alternative Locations (if C:\platform-tools doesn't work):  
-:The app will also check these locations:  
- :- `C:\adb\adb.exe`*  
- :- `C:\Android\platform-tools\adb.exe`*  
-_________________________________________________________________________________
-To Verify whether platform tools are Installation
-   - Open Command Prompt
-   - Type: `C:\platform-tools\adb.exe version`
-   - You should see the ADB version information
-_________________________________________________________________________________
-
-4. **Enable ADB in your Android device** - > *In order to install any app, ADB feature must be enabled in your device.*
+3. **Enable ADB in your Android device** - > *In order to install any app, ADB feature must be enabled in your device.*
    - Open your android device's settings
    - Got to about page (may differ amoung brands)
    - Click OS version of your device 3-4 times until you see ' Developer settings are now enabled ' or similar massage.
@@ -48,7 +27,7 @@ ________________________________________________________________________________
    - Enable 'Install via USB '  feature too to make the process smoother.
 **Please remember to disable them back as well as developer options/settings once you installed your application. Do not leave them enabled. Your device may expose to risk as well as apps like banking apps will stop working until DEV settings/options is disabled.**
      
-5. **Installing an APK** -> *Now go back to the ' SideLoad - APK_Installer ' app.*
+4. **Installing an APK** -> *Now go back to the ' SideLoad - APK_Installer ' app.*
    - Click refresh devices button. Your device must be listed.
    **If not listed, please ensure you have extracted platform-tools in the correct location.
    - If your device get listed, now click ' Select APK ' and search and locate the APK in your PC you wish to install.
@@ -99,7 +78,7 @@ Admin Privilege Check - Automatically requests administrator privileges when nee
 This software is provided "AS IS" without any warranties.
 
 ### 3.1. **Risks:** 🔒
-- Using ADB with Android devices may void warranties
+**- Using ADB with Android devices may void warranties**
 - Improper usage may damage your device as well as increase risk of data loss.
   ~Example:
   1. Downloading this program from other websites which may have been modified and contain malicious codes will put your personal data at a risk.
