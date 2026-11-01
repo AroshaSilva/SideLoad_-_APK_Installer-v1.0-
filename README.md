@@ -1,5 +1,5 @@
-# SideLoader - APK Installer for Android
-A lightweight Windows desktop utility for installing Android APK files directly to your Android device via ADB (Android Debug Bridge).
+### SideLoader - APK Installer for Android
+<p>A lightweight Windows desktop utility for installing Android APK files directly to your Android device via ADB (Android Debug Bridge).</p>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 >[!NOTE] 
 >This is just an application created to enhance my C# knowledge and MVS experience. Please note that if you found/downloaded this software elsewhere other than my personal websites > (my portfolio ~ Googledrive, social media, LinkedIn and in GitHub), software might contain viruses or modified to contain backdoors which might put your device at risk. I am not responsible for any damage caused by the app from any malicious attack or irresponsible use. This is not a commercial app.
