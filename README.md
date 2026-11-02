@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SideLoader%20-%20APK%20Installer&fontSize=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=color=timeGradient&height=300&section=header&text=SideLoader%20-%20APK%20Installer&fontSize=55" />
 <p>A lightweight Windows desktop utility for installing Android APK files directly to your Android device via ADB (Android Debug Bridge).</p>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</b>
 
@@ -99,6 +99,6 @@ This software is provided "AS IS" without any warranties.
 
 ##Thank You!
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Developer%20:%20GamerLaza_%20(Gamertag)%20/%20K.C%20Arosha%20Silva%20(name)%20
-[Portfolio](https://sites.google.com/view/arosha-silva/home)%20
-[LinkedIN](https://lk.linkedin.com/in/arosha-silva-5673b51b7)&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=color=timeGradient&height=300&section=header&text=Developer%20:%20GamerLaza_%20(Gamertag)%20/%20K.C%20Arosha%20Silva%20(name)&fontSize=50"/>
+[Portfolio](https://sites.google.com/view/arosha-silva/home)
+[LinkedIN](https://lk.linkedin.com/in/arosha-silva-5673b51b7)
