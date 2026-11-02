@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AroshaSilva/Beauti-Assets-own-/main/bubbles/sakura.svg" alt="sakura_apkinstaller_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=SideLoader%20-%20APK%20Installer&fontSize=55" />
 <p>A lightweight Windows desktop utility for installing Android APK files directly to your Android device via ADB (Android Debug Bridge).</p>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</b>
 
@@ -104,3 +104,5 @@ This software is provided "AS IS" without any warranties.
 <img src="https://capsule-render.vercel.app/api?type=blur&color=random&height=300&section=header&text=Developer%20:%20GamerLaza_%20(Gamertag)%20Arosha%20Silva%20(name)&fontSize=25"/>
 [Portfolio](https://sites.google.com/view/arosha-silva/home)</br>
 [LinkedIN](https://lk.linkedin.com/in/arosha-silva-5673b51b7)
+
+Header & Footer Designs from [User-kyechan99](https://github.com/kyechan99/capsule-render)
