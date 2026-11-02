@@ -99,6 +99,6 @@ This software is provided "AS IS" without any warranties.
 
 ##Thank You!
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=random&height=300&section=header&text=Developer%20:%20GamerLaza_%20(Gamertag)%20/%20K.C%20Arosha%20Silva%20(name)&fontSize=30"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=random&height=300&section=header&text=Developer%20:%20GamerLaza_%20(Gamertag)%20Arosha%20Silva%20(name)&fontSize=25"/>
 [Portfolio](https://sites.google.com/view/arosha-silva/home)</br>
 [LinkedIN](https://lk.linkedin.com/in/arosha-silva-5673b51b7)
