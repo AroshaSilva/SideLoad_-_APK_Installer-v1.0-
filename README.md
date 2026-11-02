@@ -40,7 +40,7 @@
    - Currently, I found no functional issue(s) with any functions.
 
 <!-- 1. ADB Installation Instructions \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:8E2DE2,100:4A00E0&height=100&text=2.Features%20✨%20!&fontSize=35&fontColor=FFFFFF" />
+<img src="https://raw.githubusercontent.com/AroshaSilva/Beauti-Assets-own-/main/bubbles/bubble-features.svg" alt="Features" />
 ### 2.1. Core Functionality 🚀
 One-Click APK Installation - Select any APK file and install it to your Android device with a single click.
 
@@ -76,7 +76,7 @@ Logging - Optional logging for troubleshooting
 
 Admin Privilege Check - Automatically requests administrator privileges when needed
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF0000,100:8B0000&height=100&text=3.DISCLAIMER%20⚠️%20!&fontSize=35&fontColor=FFFFFF" />
+<img src="https://raw.githubusercontent.com/AroshaSilva/Beauti-Assets-own-/main/bubbles/bubble-disclaimer.svg" alt="DISCLAIMER" />
 
 This software is provided "AS IS" without any warranties.
 
