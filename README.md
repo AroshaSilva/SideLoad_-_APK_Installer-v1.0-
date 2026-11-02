@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SideLoader%20-%20APK%20Installer&fontSize=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=SideLoader%20-%20APK%20Installer&fontSize=55" />
 <p>A lightweight Windows desktop utility for installing Android APK files directly to your Android device via ADB (Android Debug Bridge).</p>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 >[!NOTE] 
