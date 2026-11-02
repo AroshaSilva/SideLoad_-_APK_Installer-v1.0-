@@ -8,7 +8,8 @@
 **Below you may find 1. Installation guidelines, 2. Features, and 3. Disclaimers.**
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</b>
  
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=100&text=1.📱%20ADB%20Installation%20Instructions&fontSize=35" />
+<!-- 1. ADB Installation Instructions \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:00B4DB,100:0083B0&height=100&text=1.Installation%20Instructions%20📱%20!&fontSize=35&fontColor=FFFFFF" />
 
 ### Step-by-Step Installation:
 
@@ -38,7 +39,8 @@
    - This application is included with several safety features. If you do not know about them, leave them as it is. If you encounter any errors, please report/mention the issue in this repo discussion.
    - Currently, I found no functional issue(s) with any functions.
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=100&text=2.✨%20Features&fontSize=35" />
+<!-- 1. ADB Installation Instructions \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:8E2DE2,100:4A00E0&height=100&text=2.Features%20✨%20!&fontSize=35&fontColor=FFFFFF" />
 ### 2.1. Core Functionality 🚀
 One-Click APK Installation - Select any APK file and install it to your Android device with a single click.
 
@@ -74,7 +76,7 @@ Logging - Optional logging for troubleshooting
 
 Admin Privilege Check - Automatically requests administrator privileges when needed
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF0000,100:8B0000&height=100&text=3.%E2%9A%A0%EF%B8%8F%20DISCLAIMER&fontSize=35&fontColor=FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF0000,100:8B0000&height=100&text=3.DISCLAIMER%20⚠️%20!&fontSize=35&fontColor=FFFFFF" />
 
 This software is provided "AS IS" without any warranties.
 
