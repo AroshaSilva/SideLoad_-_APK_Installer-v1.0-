@@ -8,7 +8,7 @@
 **Below you may find 1. Installation guidelines, 2. Features, and 3. Disclaimers.**
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</b>
  
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=1.📱%20ADB%20Installation%20Instructions&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=100&text=1.📱%20ADB%20Installation%20Instructions&fontSize=35" />
 
 ### Step-by-Step Installation:
 
@@ -38,7 +38,7 @@
    - This application is included with several safety features. If you do not know about them, leave them as it is. If you encounter any errors, please report/mention the issue in this repo discussion.
    - Currently, I found no functional issue(s) with any functions.
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=2.✨%20Features&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=100&section=header&text=2.✨%20Features&fontSize=35" />
 ### 2.1. Core Functionality 🚀
 One-Click APK Installation - Select any APK file and install it to your Android device with a single click.
 
@@ -74,7 +74,7 @@ Logging - Optional logging for troubleshooting
 
 Admin Privilege Check - Automatically requests administrator privileges when needed
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=3.⚠️%20DISCLAIMER&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=100&section=header&text=3.⚠️%20DISCLAIMER&fontSize=35" />
 
 This software is provided "AS IS" without any warranties.
 
