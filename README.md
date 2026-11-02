@@ -74,7 +74,7 @@ Logging - Optional logging for troubleshooting
 
 Admin Privilege Check - Automatically requests administrator privileges when needed
 
-<img src="https://capsule-render.vercel.app/api?type=speech&color=red&height=100&text=3.⚠️%20DISCLAIMER&fontSize=35" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF0000,100:8B0000&height=100&text=3.%E2%9A%A0%EF%B8%8F%20DISCLAIMER&fontSize=35&fontColor=FFFFFF" />
 
 This software is provided "AS IS" without any warranties.
 
