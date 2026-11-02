@@ -9,7 +9,7 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</b>
  
 <!-- 1. ADB Installation Instructions \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<img src="https://raw.githubusercontent.com/AroshaSilva/Beauti-Assets/main/bubbles/bubble-adb.svg" alt="ADB Installation" />
+<img src="https://raw.githubusercontent.com/Arosha Silva/Beauti-Assets/main/bubbles/bubble-adb.svg" alt="ADB Installation" />
 
 ### Step-by-Step Installation:
 
