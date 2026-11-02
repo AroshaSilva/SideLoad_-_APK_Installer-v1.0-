@@ -9,7 +9,7 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</b>
  
 <!-- 1. ADB Installation Instructions \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\-->
-<img src="https://capsule-render.vercel.app/api?type=speech&color=0:00B4DB,100:0083B0&height=100&text=1.Installation%20Instructions%20📱%20!&fontSize=35&fontColor=FFFFFF" />
+<img src="https://raw.githubusercontent.com/AroshaSilva/Beauti-Assets/main/bubbles/bubble-adb.svg" alt="ADB Installation" />
 
 ### Step-by-Step Installation:
 
